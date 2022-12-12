@@ -8,9 +8,14 @@
 - GitHub: [AlberKovak](https://github.com/AlbertKovak)
 - Telegram: [Sergei](https://t.me/korole_vs_ergey)
 ## About Me
-I have good communication skills acquired in the course of past jobs.
-A great desire to always learn is my goal in life.
-You can rely on me in work and also in teamwork.
+I have always been interested in web development, as I consider it useful not only in professional growth, but also in personal, as in creativity.
+
+In addition, there are many developers willing to share their experiences on popular resources!
+I know that these opportunities and great desire will allow me to acquire new skills and allow me to become a first-class Frontent Engineer.
+
+I have good communication skills acquired in the course of previous jobs. 
+My goal in life is eternal learning! 
+You can rely on me for work as well as team work.
 ### Activities and Interests
 Sports, Trainings, Passions, Projects, Music and any more
 ## Skills
@@ -30,13 +35,15 @@ function multiply(a, b){
 ## Education
 - Diploma of general secondary education
   - 2010-2019: Minsk, Belarus, SS №137 named after Petr Mironovich Masherov
+
 - Diploma of higher secondary education with physics and mathematics
   - 2019-2021: Minsk, Belarus, SS №137 named after Petr Mironovich Masherov
-- Second year student (Radioinformatics)
+
+- Second year student, specialty: Radioinformatics
   - 2021-2022: Minsk, Belarus, Belarusian State University of Informatics and Radioelectronics (BSUIR)
 ## Languages
-- Russian - Native speaker.
-- English - A2 (Taught at school and university) 
+- Russian - Native speaker
+- English - A2 (Taught at school and university)
 ---
 ---
 ---
