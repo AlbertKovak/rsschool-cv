@@ -35,7 +35,7 @@ function multiply(a, b){
 - Second year student (Radioinformatics)
   - 2021-2022: Minsk, Belarus, Belarusian State University of Informatics and Radioelectronics (BSUIR)
 ## Languages
-- Russian - native speaker.
+- Russian - Native speaker.
 - English - A2 (Taught at school and university) 
 ---
 ---
