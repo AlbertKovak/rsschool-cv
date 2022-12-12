@@ -1,4 +1,5 @@
 # Sergei Korolev 
+![image](https://user-images.githubusercontent.com/115763625/207133801-7f8c52db-d40b-4afc-b580-27cf695e4986.png)
 ## Junior Frontend Developer
 ---
 ## Contacts
