@@ -44,7 +44,8 @@ function multiply(a, b){
   - 2021-2025: Minsk, Belarus, Belarusian State University of Informatics and Radioelectronics (BSUIR)
 ## Languages
 - Russian - Native speaker
+- Belorussian - Native speaker
 - English - A2 (Taught at school and university)
 ---
 ---
-Thank U, [irinainina](https://github.com/irinainina)!
+---
