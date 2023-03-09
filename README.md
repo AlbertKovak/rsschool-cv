@@ -1,4 +1,6 @@
-# [rsschool-cv](https://Albertkovak.github.io/rsschool-cv/)
+# Task: CV
 ---
-# [CV](https://AlbertKovak.github.io/rsschool-cv/cv)
+- ## [rsschool-cv](https://Albertkovak.github.io/rsschool-cv/)
+---
+- ## [CV](https://AlbertKovak.github.io/rsschool-cv/cv)
 ---
